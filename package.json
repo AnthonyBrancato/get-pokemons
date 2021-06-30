@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "name": "get-pokemons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}

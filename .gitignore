@@ -1,0 +1,7 @@
+/node_modules
+/pokemons
+.idea
+
+yarn.lock
+
+.DS_STORE
